@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1_FinalExam.iml" filepath="$PROJECT_DIR$/.idea/1_FinalExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Car/Car/Car.iml" filepath="$PROJECT_DIR$/5_Car/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddNumbersForLoop/OddNumbersForLoop.iml" filepath="$PROJECT_DIR$/OddNumbersForLoop/OddNumbersForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OddNums/OddNums.iml" filepath="$PROJECT_DIR$/OddNums/OddNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_UserInput/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/7_UserInput/UserInput/UserInput.iml" />
+    </modules>
+  </component>
+</project>
